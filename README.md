@@ -1,2 +1,2 @@
 # servidores
-Arquivos de configurações de servidores linux.
+Arquivos de configurações para servidores linux.
