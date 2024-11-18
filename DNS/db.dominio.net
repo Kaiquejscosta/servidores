@@ -9,8 +9,8 @@ $TTL    604800
                         2419200         ; Expire
                          604800 )       ; Negative Cache TTL
 ;
-floydsolutions.net.     IN      NS      servidordns.floydsolutions.net.
-floydsolutions.net.     IN      A       192.168.2.101
+dominio.net.     IN      NS      servidordns.dominio.net.
+dominio.net.     IN      A       192.168.2.101
 ;@      IN      A       127.0.0.1
 ;@      IN      AAAA    ::1
 servidordns     IN      A       192.168.2.101
